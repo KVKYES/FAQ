@@ -4,11 +4,9 @@
 $("#question1").click(function(){
     $("#answer1").slideToggle();
 });
-​
 $("#question2").click(function(){
     $("#answer2").slideToggle();
 });
-​
 $("#question3").click(function(){
     $("#answer3").slideToggle();
 });
